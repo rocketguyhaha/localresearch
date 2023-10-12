@@ -1,0 +1,71 @@
+body {
+    background-color: lightgreen;
+    color: white;
+    margin: 0;
+    font-family: 'Kanit', sans-serif;
+}
+
+h1 {
+    font-size: 140px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 5em;
+    padding-top: 5%;
+    padding-bottom: 3%;
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    font-size: 1.5em;
+    margin-top: 10%;
+}
+
+h5 {
+    text-align: center;
+    font-size: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 8%;
+}
+
+p {
+    padding: 10px;
+    font-size: 1.5em;
+}
+
+.mainnavbar {
+    text-align: center;
+    font-size: 1.2em;
+    padding: 40px;
+    margin-bottom: 3%;
+}
+
+a {
+    padding: 20px;
+    margin: 10px;
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    background-color: white;
+    color: lightgreen;
+}
+
+#footer {
+    width: 100%;
+    background-color: white;
+    color: lightgreen;
+    padding: 10px;
+    text-align: center;
+}
+
+
+iframe {
+    margin-top: 3%;
+    margin-left: 5%;
+    float: left;
+}
